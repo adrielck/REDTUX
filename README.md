@@ -106,6 +106,4 @@ Este projeto é destinado **exclusivamente para aprendizado e testes em ambiente
 
 ---
 
-## 📄 Licença
 
-MIT License
